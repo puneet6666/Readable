@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Initial text
 Flow is good
 In develop
+=======
+Hotfixed
+>>>>>>> hotfix1_1
