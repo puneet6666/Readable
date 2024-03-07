@@ -1,3 +1,4 @@
 #TO DO LIST
- This repository is for Version control, a project managed using Git Flow model. It includes features such as branch management, version control, and collaborative development practices.
- 
+ Helps users organize their tasks efficiently, improving productivity and time management.
+- Features include add tasks, mark tasks as completed, delete tasks, and categorize tasks.
+
